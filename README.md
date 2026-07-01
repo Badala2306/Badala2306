@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/Badala2306?style=flat-square&color=36BCF7" alt="GitHub followers" />
 </p>
 
-<h3 align="center">ECE Undergrad @ Thapar Institute of Engineering and Technology (3rd Year)</h3>
+<h3 align="center">ENC Undergrad @ Thapar Institute of Engineering and Technology (3rd Year)</h3>
 
 <p align="center">
   I turn messy, real-world data into clear stories — dashboards, SQL analysis, and data-driven decisions.
