@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,git,github,vscode&perline=16" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgres,r,git,github,vscode,linux,windows,notion&perline=16" alt="My Skills" />
 </p>
 
 | Category | Stack |
